@@ -1,0 +1,19 @@
+{
+  "pages": [
+    {
+      "id": "1",
+      "path": "/",
+      "icon": "mdi-home-outline"
+    },
+    {
+      "id": "2",
+      "path": "/reliability",
+      "icon": "mdi-format-list-bulleted"
+    },
+    {
+      "id": "3",
+      "path": "/reliability/capacitors",
+      "icon": "mdi-alpha-c-circle-outline"
+    }
+  ]
+}
